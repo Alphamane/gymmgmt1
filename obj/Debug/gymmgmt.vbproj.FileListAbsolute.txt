@@ -1,0 +1,17 @@
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\bin\Debug\gymmgmt.exe.config
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\bin\Debug\gymmgmt.exe
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\bin\Debug\gymmgmt.pdb
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\bin\Debug\gymmgmt.xml
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.vbproj.AssemblyReference.cache
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.Form1.resources
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.Resources.resources
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.vbproj.GenerateResource.cache
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.vbproj.CoreCompileInputs.cache
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.exe
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.xml
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.pdb
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.NewMember.resources
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.NewStaff.resources
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.Searchmember.resources
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.Deletemember.resources
+C:\Users\manes\source\repos\gymmgmt\gymmgmt\obj\Debug\gymmgmt.Login.resources
